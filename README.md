@@ -1,2 +1,4 @@
 # hello-world
-First Repository
+
+I`m new here.
+I like front-end and Photoshop.
